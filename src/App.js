@@ -9,7 +9,6 @@ import './App.css';
 function App() {
   const [index, setIndex] = useState(0);
   const [people, setPeople] = useState(data);
-  const [index, setIndex] = useState(0);
 
   useEffect(() => {
     const lastIndex = people.length - 1;
