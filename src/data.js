@@ -24,7 +24,7 @@ const people = [
     name: 'peter smith',
     title: 'product designer',
     quote:
-      "Drinking vinegar polaroid street art echo park, actually semiotics next level butcher master cleanse hammock flexitarian ethical paleo.",
+      'Drinking vinegar polaroid street art echo park, actually semiotics next level butcher master cleanse hammock flexitarian ethical paleo.',
   },
   {
     id: 4,
