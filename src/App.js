@@ -7,6 +7,7 @@ import data from './data';
 import './App.css';
 
 function App() {
+  const [index, setIndex] = useState(0);
   const [people, setPeople] = useState(data);
   const [index, setIndex] = useState(0);
 
