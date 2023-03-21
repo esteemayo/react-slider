@@ -4,7 +4,7 @@ import { FaQuoteRight } from 'react-icons/fa';
 
 import data from './services/peopleService';
 
-import "./App.css";
+import './App.css';
 
 function App() {
   const [people, setPeople] = useState(data);
