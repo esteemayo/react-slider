@@ -39,7 +39,7 @@ function App() {
         {people.map((person, personIndex) => {
           const { id, name, image, title, quote } = person;
 
-          let position = "nextSlide";
+          let position = 'nextSlide';
           if (personIndex === index) {
             position = "activeSlide";
           }
