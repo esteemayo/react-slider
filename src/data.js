@@ -20,9 +20,9 @@ const people = [
   {
     id: 3,
     image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg",
-    name: "peter smith",
-    title: "product designer",
+      'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959121/person-1_aufeoq.jpg',
+    name: 'peter smith',
+    title: 'product designer',
     quote:
       "Drinking vinegar polaroid street art echo park, actually semiotics next level butcher master cleanse hammock flexitarian ethical paleo.",
   },
