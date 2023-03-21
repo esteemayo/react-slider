@@ -29,8 +29,8 @@ function App() {
   }, [index]);
 
   return (
-    <section className="section">
-      <div className="title">
+    <section className='section'>
+      <div className='title'>
         <h2>
           <span>/</span>Reviews
         </h2>
