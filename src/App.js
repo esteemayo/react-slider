@@ -35,7 +35,7 @@ function App() {
           <span>/</span>Reviews
         </h2>
       </div>
-      <div className="section-center">
+      <div className='section-center'>
         {people.map((person, personIndex) => {
           const { id, name, image, title, quote } = person;
 
