@@ -48,7 +48,7 @@ function App() {
             personIndex === index - 1 ||
             (index === 0 && personIndex === people.length - 1)
           ) {
-            position = "lastSlide";
+            position = 'lastSlide';
           }
 
           return (
